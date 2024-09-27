@@ -1,4 +1,4 @@
-# Breast Cancer Prediction System with Chatbot
+#  Programming Test: Learning Activations in Neural Networks
 
 ## Overview
 This project is a Breast Cancer Prediction System that utilizes a Neural Network model to predict whether a tumor is malignant or benign based on input features. Additionally, the project integrates a chatbot assistant to guide users in using the system or answer basic questions.
