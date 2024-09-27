@@ -113,4 +113,5 @@ streamlit run streamlit_app.py
 
 ## Screenshot
 
-![Screenshot of Feature 1](https://github.com/Shrutakeerti/Assignment---27-09-2024/blob/main/Chatbot%20(2).png)
+![Chatbot](https://github.com/Shrutakeerti/Assignment---27-09-2024/blob/main/Chatbot%20(2).png)
+![Prediction features](https://github.com/Shrutakeerti/Assignment---27-09-2024/blob/main/prediction.jpeg)
