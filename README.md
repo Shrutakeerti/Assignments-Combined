@@ -111,9 +111,3 @@ streamlit run streamlit_app.py
   - `sklearn`: Data preprocessing (StandardScaler)
   - `requests`: API requests
 
-## Screenshots
-### Prediction Interface:
-![Prediction Interface]("C:\Users\Shrutakeerti Datta\Downloads\prediction.jpeg") <!-- Replace with actual screenshot -->
-
-### Chatbot Interface:
-![Chatbot Interface]("C:\Users\Shrutakeerti Datta\Downloads\Chatbot (2).jpeg") <!-- Replace with actual screenshot -->
