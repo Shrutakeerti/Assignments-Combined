@@ -111,3 +111,6 @@ streamlit run streamlit_app.py
   - `sklearn`: Data preprocessing (StandardScaler)
   - `requests`: API requests
 
+## Screenshot
+
+![Screenshot of Feature 1](https://github.com/Shrutakeerti/Assignment---27-09-2024/blob/main/Chatbot%20(2).png)
