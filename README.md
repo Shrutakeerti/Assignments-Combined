@@ -115,3 +115,8 @@ streamlit run streamlit_app.py
 
 ![Chatbot](https://github.com/Shrutakeerti/Assignment---27-09-2024/blob/main/Chatbot%20(2).png)
 ![Prediction features](https://github.com/Shrutakeerti/Assignment---27-09-2024/blob/main/prediction.jpeg)
+
+
+
+
+## This is deployed using streamlit
