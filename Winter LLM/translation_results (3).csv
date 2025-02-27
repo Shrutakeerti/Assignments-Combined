@@ -1,0 +1,31 @@
+Language Pair,Iterations,Original,Final,BLEU Score
+en-fr,1,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, comment allez-vous aujourd'hui?",2.3594750978510907e-233
+en-fr,2,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, how are you today?",0.035204773658314856
+en-fr,3,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, comment allez-vous aujourd'hui?",2.3594750978510907e-233
+en-fr,4,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, how are you today?",0.035204773658314856
+en-fr,5,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, comment allez-vous aujourd'hui?",2.3594750978510907e-233
+en-fr,6,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, how are you today?",0.035204773658314856
+en-fr,7,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, comment allez-vous aujourd'hui?",2.3594750978510907e-233
+en-fr,8,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, how are you today?",0.035204773658314856
+en-fr,9,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, comment allez-vous aujourd'hui?",2.3594750978510907e-233
+en-fr,10,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Radha, how are you today?",0.035204773658314856
+en-hi,1,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","अरे, राना, आप आज कैसे कर रहे हैं? वेना कॉफी बाद में पकड़? आज बॉस हमें एक दिन दे दिया है.",0.0
+en-hi,2,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Raana, how are you today? Wea'll grab coffee later?",1.919823539016938e-78
+en-hi,3,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","अरे, राना, तुम आज कैसे हो? वेला कॉफी बाद में पकड़ लेंगे?",0.0
+en-hi,4,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Sana, how are you today? Welly coffee will hold it later?",2.0123104354554775e-78
+en-hi,5,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","अरे, सैना, आप आज कैसे कर रहे हैं? खैर, कॉफी इसे बाद में पकड़ जाएगा?",0.0
+en-hi,6,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Sana, how are you doing today? Well, coffee will catch it later?",0.18982137345986203
+en-hi,7,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","अरे, सैना, आप आज कैसे कर रहे हैं? खैर, कॉफी इसे बाद में पकड़ जाएगा?",0.0
+en-hi,8,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Sana, how are you doing today? Well, coffee will catch it later?",0.18982137345986203
+en-hi,9,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","अरे, सैना, आप आज कैसे कर रहे हैं? खैर, कॉफी इसे बाद में पकड़ जाएगा?",0.0
+en-hi,10,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Sana, how are you doing today? Well, coffee will catch it later?",0.18982137345986203
+fr-de,1,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.",1.0
+fr-de,2,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna tombe some coffee later? Today Boss has given us a day off.",0.8578928092681435
+fr-de,3,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna fällt some coffee later? Today Boss has given us a day off.",0.8578928092681435
+fr-de,4,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna tombe some coffee later? Today Boss has given us a day off.",0.8578928092681435
+fr-de,5,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna fällt some coffee later? Today Boss has given us a day off.",0.8578928092681435
+fr-de,6,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna tombe some coffee later? Today Boss has given us a day off.",0.8578928092681435
+fr-de,7,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna fällt some coffee later? Today Boss has given us a day off.",0.8578928092681435
+fr-de,8,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna tombe some coffee later? Today Boss has given us a day off.",0.8578928092681435
+fr-de,9,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna fällt some coffee later? Today Boss has given us a day off.",0.8578928092681435
+fr-de,10,"Hey, Radha, how are you doing today? Wanna grab some coffee later? Today Boss has given us a day off.","Hey, Radha, how are you doing today? Wanna tombe some coffee later? Today Boss has given us a day off.",0.8578928092681435
