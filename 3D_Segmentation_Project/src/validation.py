@@ -42,6 +42,6 @@ def evaluate(model, dataloader, device, num_classes=4):
                 dice_scores[cls] += batch_dice.get(cls, 0)
             total_batches += 1
 
-    # Average over all batches
+   
     avg_dice_scores = {cls: score / total_batches for cls, score in dice_scores.items()}
     return avg_dice_scores
